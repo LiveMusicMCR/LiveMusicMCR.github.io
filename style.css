@@ -1,15 +1,12 @@
-.container {
-  margin-bottom: 0px;
-  height: 1500px;
+main {
   background-image: url(https://www.constructionnews.co.uk/pictures/1240x826/4/5/3/3052453_simpson-hagugh-st-johns.jpg);
-  background-position: O% 25%;
-  background size: auto 80%;
   background-repeat: no-repeat;
+  background-position: center;
   color: white;
+  min-height: 800px;
   font-size: x-large;
-  text-align: center;
 }
+
 .topnav{
-  float:right;
-  position: sticky;
+    background: #ccc;
 }
