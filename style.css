@@ -10,5 +10,6 @@
   text-align: center;
 }
 .topnav{
-  align-content: : right;
+  float:right;
+  position: sticky;
 }
