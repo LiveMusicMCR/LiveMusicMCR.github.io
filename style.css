@@ -11,4 +11,5 @@
 }
 .topnav{
   float:right;
+  position: sticky;
 }
